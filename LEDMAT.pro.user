@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 14.0.2, 2024-10-05T01:12:09. -->
+<!-- Written by QtCreator 14.0.2, 2025-04-04T23:30:42. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -274,6 +274,13 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.AndroidDeployConfiguration2</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.DeployConfigurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.PluginSettings">
+    <valuelist type="QVariantList" key="AndroidDeviceAbis">
+     <value type="QString">arm64-v8a</value>
+    </valuelist>
+    <value type="QString" key="AndroidDeviceSerialNumber">00116648L001351</value>
+    <value type="int" key="AndroidVersion.ApiLevel">35</value>
+   </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.0">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
     <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
@@ -291,8 +298,8 @@
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
     <value type="QString" key="PerfRecordArgsId">-e cpu-cycles --call-graph dwarf,4096 -F 250</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">LEDMAT</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.AndroidRunConfiguration:/home/circuito/LEDMAT/LEDMAT.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/circuito/LEDMAT/LEDMAT.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.AndroidRunConfiguration:/home/circuito/LEDMATRIX/LEDMAT.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/circuito/LEDMATRIX/LEDMAT.pro</value>
     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
